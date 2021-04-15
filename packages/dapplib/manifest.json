@@ -1,0 +1,16 @@
+{
+    "name": "SERIEC",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/administrator_role": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "SERIEC",
+        "/category/asset_value_tracking/token/symbol": "SERIEC",
+        "/category/asset_value_tracking/token/decimals": "18",
+        "/category/asset_value_tracking/token/supply": "10000",
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "single"
+    }
+}
